@@ -9,3 +9,4 @@
 ## Drinks
 
 - [Cola](recipes/cola.md)
+- [Cocktail surprise](recipes/cocktail-nu-stiu)
