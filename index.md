@@ -10,3 +10,8 @@
 
 - [Cola](recipes/cola.md)
 - [Cocktail surprise](recipes/cocktail-nu-stiu)
+
+## Desert
+ 
+- [Tiramisu](recipes/tiramisu.md)
+- [Pancakes](recipes/clatite.md)
