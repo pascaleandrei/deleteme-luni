@@ -1,4 +1,6 @@
 # Pizza
-Ciuperci
-Cașcaval
-Șuncă
+
+- Ciuperci
+- Cașcaval
+- Șuncă
+- Roșii
