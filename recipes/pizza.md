@@ -1,0 +1,3 @@
+Ciuperci
+Cașcaval
+Șuncă
